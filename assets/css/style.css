@@ -1,0 +1,35 @@
+html{
+    font-size: 25px;
+}
+body {
+    background-color: rgb(201, 139, 139);
+    font-family: 'Amatic SC', cursive;
+  
+}
+
+#wrap {
+    background-color: rgb(247, 237, 237);
+    color: black;
+    width: 90%;
+}
+
+#header {
+    background-color: rgb(143, 143, 232);
+    text-align: center;
+    padding: 15px;
+}
+
+#title {
+    font-size: 55px;
+    color: rgb(244, 236, 221);
+}
+
+
+
+.btn {
+    margin: 5px;
+}
+.submit {
+    background-color: rgb(143, 143, 232);
+    color: rgb(255, 255, 255);
+}
