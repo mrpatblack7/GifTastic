@@ -1,5 +1,6 @@
 #GifTastic
-Giphy API and JavaScript/jQuery
+
+-Giphy API and JavaScript/jQuery
 
 ## Live Link
  - https://mrpatblack7.github.io/GifTastic/
