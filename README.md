@@ -1,4 +1,4 @@
-# HW6-GifTastic
+#GifTastic
 Giphy API and JavaScript/jQuery
 
 ## Live Link
