@@ -3,7 +3,8 @@ Giphy API and JavaScript/jQuery
 
 ## Live Link
  - https://mrpatblack7.github.io/GifTastic/
-
+ <img width="530" alt="thumbnail_pic3" src="https://user-images.githubusercontent.com/45779399/61763628-a4ec5a80-ad9b-11e9-9f37-2b2b6a1fed7f.png">
+ 
 ## Requirements
 - Generate a set of buttons based on an array of related strings
 - Allow user to create new button based on text input
